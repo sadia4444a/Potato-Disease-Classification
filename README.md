@@ -6,8 +6,7 @@ and prevent the economic loss. The treatments for early blight and late
 blight are little different so it's important that you accurately identify what kind of disease is there in that potato plant. 
 
 ## Possible Solution :
-## 1. Create a  streamlit web app which can detect  early blight and late
-blight or healthy
+## 1. Create a  streamlit web app which can detect  early blight and late blight or healthy
 
 ![leaf_plot](https://github.com/user-attachments/assets/aa5bab67-e13f-48f2-b47c-00ea7a8544a0)
 
