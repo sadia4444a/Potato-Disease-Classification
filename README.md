@@ -7,5 +7,6 @@ blight are little different so it's important that you accurately identify what 
 
 ## Possible Solution :
 1. Create a  streamlit web app which can detect  early blight and late
-blight
-2. using CNN
+blight or healthy
+2. Using Basic CNN Model: Epochs : 10 , train accuracy :96%, Test Accuracy: 96% , Val Accurcay : 97%.
+
