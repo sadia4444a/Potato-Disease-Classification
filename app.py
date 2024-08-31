@@ -28,7 +28,7 @@ def predict(model, img):
 # Define the class names for the potato diseases
 class_names = ["Early Blight", "Late Blight", "Healthy"]
 model_paths = {
-    "Model 1 (CNN)": "/Users/mst.sadiakhatun/Desktop/Potato disease Classification/models/Potato_v1.keras",
+    "Model 1 (CNN)": "https://github.com/sadia4444a/Potato-Disease-Classification/blob/main/models/Potato_v1.keras",
     # "Model 2": "path/to/other_model_2.keras",
     # "Model 3": "path/to/other_model_3.keras",
     # "Model 4": "path/to/other_model_4.keras",
